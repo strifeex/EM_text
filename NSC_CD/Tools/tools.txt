@@ -1,0 +1,6 @@
+appserv 2.5.10
+NetbeanIDE 7.2
+JRE7
+JFreeChart 1.0.14
+jcalendar-1.4
+7-Zip
